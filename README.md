@@ -20,7 +20,7 @@ Clone the repository.
 ```
 git clone https://github.com/opeik/cmake-sdl2-example.git
 ```
-Configure, build and run the project.
+Configure, build, and run the project.
 ```
 cmake -B build && cd build && cmake --build . && ./sdl2-example
 ```
