@@ -26,5 +26,5 @@ cmake -B build && cd build && cmake --build . && ./sdl2-example
 ```
 
 ## License
-This project is licensed under the ISC license. Please see the LICENSE.md file
-for details.
+This project is licensed under the ISC license. Please see the [`LICENSE.md`](LICENSE.md)
+file for details.
